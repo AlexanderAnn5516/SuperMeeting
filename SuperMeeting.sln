@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMeeting.WebAPI", "SuperMeeting\SuperMeeting.WebAPI.csproj", "{FA3910ED-8282-488A-9510-C38A556275EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMeeting.Models", "SuperMeeting.Models\SuperMeeting.Models.csproj", "{73D16F67-FEBA-4931-8273-410EC0ACF1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMeeting.Service", "SuperMeeting.Service\SuperMeeting.Service.csproj", "{5FE4CC40-120D-4583-9D49-1EFCB6BFC67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMeeting.Data", "SuperMetting.Data\SuperMeeting.Data.csproj", "{FD094657-1FE3-4622-AEC2-30F24E8CE91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3910ED-8282-488A-9510-C38A556275EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3910ED-8282-488A-9510-C38A556275EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3910ED-8282-488A-9510-C38A556275EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3910ED-8282-488A-9510-C38A556275EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D16F67-FEBA-4931-8273-410EC0ACF1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D16F67-FEBA-4931-8273-410EC0ACF1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D16F67-FEBA-4931-8273-410EC0ACF1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D16F67-FEBA-4931-8273-410EC0ACF1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE4CC40-120D-4583-9D49-1EFCB6BFC67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE4CC40-120D-4583-9D49-1EFCB6BFC67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE4CC40-120D-4583-9D49-1EFCB6BFC67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE4CC40-120D-4583-9D49-1EFCB6BFC67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD094657-1FE3-4622-AEC2-30F24E8CE91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD094657-1FE3-4622-AEC2-30F24E8CE91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD094657-1FE3-4622-AEC2-30F24E8CE91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD094657-1FE3-4622-AEC2-30F24E8CE91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2700E5B-52D3-4EDC-BF1A-06C47D52B611}
+	EndGlobalSection
+EndGlobal
