@@ -9,6 +9,5 @@ namespace SuperMeeting.Models.Meetings
     internal class MeetingCreate
     {
         public string MeetingName { get; set; }
-        public List<string> UserEmails { get; set; }
     }
 }

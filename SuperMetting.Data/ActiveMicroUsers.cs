@@ -8,6 +8,7 @@ namespace SuperMetting.Data
 {
     public class ActiveMicroUsers
     {
-        public string email { get; set; }
+        public string Email { get; set; }
+        public string MeetingName { get; set; }
     }
 }
